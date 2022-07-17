@@ -1,0 +1,7 @@
+.trabajos {
+  display: flex;
+  flex-wrap: wrap;
+  height: 30%;
+  background: var(--background-main);
+  padding-left: 4rem;
+}

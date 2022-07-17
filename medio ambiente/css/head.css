@@ -1,0 +1,57 @@
+.head {
+  color: var(--background-fondo-pagina);  
+  background-color: var(--background-main);
+  width: 100%;
+
+  box-sizing: border-box;
+
+  display: flex;
+  flex-direction: column;
+  /* align-items: center;
+  justify-content: flex-end; */
+  flex-wrap: nowrap;
+
+  padding-top: .75rem;
+  padding-bottom: 1rem;
+
+  border-bottom: 1px solid var(--border-principal);
+
+  position: flex;
+  
+
+}
+
+.head__logo {
+  margin-bottom: 1rem;
+}
+
+.headerPrincipal-titulo {
+  font-size: 6rem;
+  font-weight: bold;
+  text-align: center;
+  padding-right: 2.5rem;
+  
+}
+
+.headerSecundario-texto {
+  
+  align-self: center;
+  font-size: 3rem;
+
+
+}
+
+.head__navegacion {
+  text-align: center;
+  justify-content: flex-end;
+  
+}
+
+.head__enlace {
+  font-size: 1.1rem;
+  display: inline-block;
+
+  margin-right: .7rem;
+  margin-bottom: .7rem;
+  margin-left: .7rem;
+}

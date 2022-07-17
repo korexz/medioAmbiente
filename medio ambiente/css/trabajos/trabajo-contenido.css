@@ -1,0 +1,7 @@
+.trabajo__contenido {
+  padding-top: 4rem;
+  border-top: 0.5rem solid var(--background-main);
+  padding: 1rem;
+  text-align: center;
+}
+

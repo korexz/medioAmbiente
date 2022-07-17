@@ -1,0 +1,7 @@
+.principal__titulo {
+  font-family: var(--Lucida);
+  font-size: 10rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+}

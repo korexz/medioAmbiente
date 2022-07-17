@@ -1,0 +1,35 @@
+:root {
+   /* colores */
+  --background-fondo-pagina: #ffebcd;
+  --background-main: #00161C;
+  --background-blanco: #FFFFFF;
+  --background-azul-claro:#DFE3F5;
+  --background-ceniza-claro: #F7F4F4;
+  --background-ceniza-medio: #D9D9D9;
+  --background-footer: #333333;
+  --border-principal: #103D4A;
+  
+  --btn-color: #8d0606;
+
+  --fuente-ceniza-claro: #666666;
+  --fuente-ceniza-oscuro: #4F4C4C;
+
+  
+
+  --Lucida: 'Lucida Sans', sans-serif;
+
+
+}
+
+body{
+  font-family: var(--Lucida);
+  
+}
+.container {
+  padding-right: 6%;
+  padding-left: 6%;
+}
+
+
+
+/* contenido principal cursos link o cursos link a de la etiqueta en este caso para la etiqueta que estamos ocupando en las imagenes */

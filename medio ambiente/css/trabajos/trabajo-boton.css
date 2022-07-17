@@ -1,0 +1,12 @@
+.trabajo__boton {
+  background-color: var(--btn-color);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 1rem;
+}
+
+.trabajo__boton:hover {
+  cursor: pointer;
+  filter: grayscale(80%);
+}

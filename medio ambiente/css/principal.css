@@ -1,0 +1,32 @@
+.principal {
+
+  color: var(--background-blanco);
+  text-align: center;
+  position: relative;
+  float: inline-end;
+
+  background-color: var(--background-main);
+
+  padding-top: 6rem;
+  padding-bottom: 2.5rem;
+
+  border-bottom: 1px solid var(--border-principal);
+  
+  /* background-image: url(../img/montana2.jpg); */
+
+}
+
+.principal__titulo {
+  font-family: var(--Lucida);
+  font-size: 10rem;
+  font-weight: 700;
+  text-transform: uppercase;
+
+  margin-bottom: 1.5rem;
+}
+
+.principal__texto {
+  font-size: 1.5rem;
+  line-height: normal;
+  margin: 0 auto 2.5rem;
+}
