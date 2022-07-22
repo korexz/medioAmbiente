@@ -17,8 +17,6 @@
   border-bottom: 1px solid var(--border-principal);
 
   position: flex;
-  
-
 }
 
 .head__logo {
@@ -30,15 +28,11 @@
   font-weight: bold;
   text-align: center;
   padding-right: 2.5rem;
-  
 }
 
 .headerSecundario-texto {
-  
   align-self: center;
   font-size: 3rem;
-
-
 }
 
 .head__navegacion {
@@ -50,8 +44,9 @@
 .head__enlace {
   font-size: 1.1rem;
   display: inline-block;
-
+  color: white;
   margin-right: .7rem;
   margin-bottom: .7rem;
   margin-left: .7rem;
+  text-decoration: none;
 }

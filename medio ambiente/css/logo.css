@@ -6,7 +6,7 @@
   font-size: 100px;
   color: green;
 }
-@keyframes giro {
+/* @keyframes giro {
   0% {background-color: green; rotate: 90deg;}
   25% {background-color: greenyellow; rotate: 90deg;}
-}
+} */

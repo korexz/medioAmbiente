@@ -23,12 +23,21 @@
 
 body{
   font-family: var(--Lucida);
-  
 }
+
+main {
+  overflow: hidden;
+}
+
+section {
+  flex-direction: column;
+}
+
 .container {
   padding-right: 6%;
   padding-left: 6%;
 }
+
 
 
 
